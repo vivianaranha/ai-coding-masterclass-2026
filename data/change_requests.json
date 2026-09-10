@@ -1,0 +1,12 @@
+[
+  {
+    "id": "CR-1",
+    "goal": "Add ticket priority filter",
+    "risk": "low"
+  },
+  {
+    "id": "CR-2",
+    "goal": "Add refund approval action",
+    "risk": "high"
+  }
+]
